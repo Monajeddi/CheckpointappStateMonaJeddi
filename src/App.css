@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: #071b426e;
+  border-radius: 20px;
+  padding: 10px;
+ margin: 20% 0;
+  width: 750px;
+  height: 600px;
+}
+
+.Person{
+  margin-top: 10px;
+}
